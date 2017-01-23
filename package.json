@@ -1,0 +1,36 @@
+{
+  "name": "lazy-render",
+  "version": "0.0.0",
+  "description": "A helper for react and lazy-router",
+  "main": "lazy-render.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scriptoLLC/lazy-render.git"
+  },
+  "keywords": [
+    "react-router",
+    "react",
+    "router",
+    "lazy-router",
+    "routing",
+    "router",
+    "html5-history",
+    "history"
+  ],
+  "author": "Todd Kennedy <todd@selfassembled.org>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/scriptoLLC/lazy-render/issues"
+  },
+  "homepage": "https://github.com/scriptoLLC/lazy-render#readme",
+  "peerDependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "lazy-router": "^1.0.0"
+  }
+}
