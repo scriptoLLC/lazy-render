@@ -1,6 +1,6 @@
 {
   "name": "lazy-render",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A helper for react and lazy-router",
   "main": "lazy-render.js",
   "scripts": {
